@@ -1,4 +1,5 @@
 Week 1 – Research, Productivity & Smart Content Creation
+
 A collection of AI-driven builds from Mystery2Mastery Episode 2, exploring three powerful AI tools through mini projects, and combining them into a major capstone project.
 
 Projects Overview
