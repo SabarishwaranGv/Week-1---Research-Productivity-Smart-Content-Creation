@@ -1,76 +1,59 @@
-Week 1 – Research, Productivity & Smart Content Creation
+Week 2 – Automation, Orchestration & AI Synergy
 
-A collection of AI-driven builds from Mystery2Mastery Episode 2, exploring three powerful AI tools through mini projects, and combining them into a major capstone project.
+A collection of AI-driven builds from Mystery2Mastery Episode 3, where automation meets orchestration and AI tools collaborate like a perfect symphony. This week, I explored how multiple AI tools can interact, trigger, and enhance each other’s outputs — building from modular experiments into a fully orchestrated AI system.
 
 Projects Overview
-Mini Project 1 – Notion AI Productivity System
-A fully automated content creator productivity hub built in Notion.
 
-AI-generated content calendars
+Mini Project 1 – LangChain RAG PDF Q&A Bot
 
-Idea generators & brainstorming templates
+An interactive knowledge assistant powered by LangChain.
+Upload a PDF, ask questions, and get precise answers grounded in the document.
+Combines retrieval-augmented generation (RAG) with vector search for accuracy.
+A step toward practical, knowledge-specific AI agents.
 
-Visual asset planning boards
+Mini Project 2 – Make “Instant Headline Hacker”
 
-Collaboration & progress tracking tools
+A real-time automation pipeline for news feeds.
+Make watches RSS feeds for fresh headlines.
+AI automatically summarizes and formats them.
+Turns a raw feed into an instant insight engine — no manual input required.
 
-Designed to transform messy ideas into structured, actionable plans.
+Mini Project 3 – OpenRouter “Battle of the Bots”
 
-Mini Project 2 – Perplexity AI Reverse Thesis Challenge
-A research-backed exploration of:
-“Will Large Language Models replace entry-level programmers in 5 years?”
+A head-to-head test of AI models on the same prompt.
+GPT, DeepSeek & LLaMa each respond to the same question.
+Their answers are displayed side-by-side to reveal differences in reasoning, tone, and creativity.
+A fun way to explore the “personalities” of different LLMs.
 
-Thesis + counterarguments + citations
+Major Project – The AI Orchestra
 
-Research document format
+A fully orchestrated AI system where tools work together in harmony:
+Make detects a new request (email, Slack, or form submission).
+It triggers a LangChain pipeline to process the task.
+LangChain routes queries to AI model via OpenRouter.
+Responses are merged, refined, and formatted.
+The polished answer is delivered automatically back to the requester.
 
-Structured, evidence-based writing
-
-Mini Project 3 – Claude AI ASCII Toner
-A creative coding experiment where each keystroke is converted into a unique tone based on its ASCII value.
-
-Real-time tone generation from typing
-
-Explores Claude AI’s structuring, code understanding, and content generation
-
-A playful way to test AI’s technical creativity.
-
-Major Project – Bridging Pretraining & Instruction Tuning in LLMs
-A 120+ page interactive book exploring the journey of large language models:
-
-From raw data pretraining → instruction tuning →real-world AI assistance
-
-Features flowcharts, visual guides, and AI-generated illustrations
-
-Planned in Notion AI, researched with Perplexity AI, written & formatted in Claude AI
-
-A complete knowledge product — crafted by AI, guided by curiosity.
+The result: A hands-off, multi-model AI assistant — switching between models, keeping history, and delivering orchestrated intelligence in real time.
 
 Project Links
+Mini Projects
 
-## Mini Projects
+LangChain – RAG PDF Q&A Bot
+🔗 View Project
 
-1. **Notion AI – Automated Productivity System**  
-   🔗 [View Project](https://difficult-colossus-1ea.notion.site/Mini-Project-Using-Notion-AI-Part-I-2442d0279e6e80b7a3ecfe9eae731d1b) - Part I
-   🔗 [View Project](https://spotless-save-3fc.notion.site/Mini-Project-Using-Notion-AI-Part-II-24512d218d92809ca379d03ce8f25d8f)) - Part II
+Make – Instant Headline Hacker
+🔗 View Project
 
-3. **Perplexity AI – Reverse Thesis Challenge**  
-   🔗 [View Project](https://file.notion.so/f/f/fd012d21-8d92-8122-850f-00030d8b9b4a/43551ccf-4d33-457e-bd5a-7572e8c8cc64/PerplexityAI_Research_Analytics.md?table=block&id=24612d21-8d92-803d-a279-f0ff4ae21596&spaceId=fd012d21-8d92-8122-850f-00030d8b9b4a&expirationTimestamp=1754870400000&signature=sEi8P8p4LlxeojfOqfuVi6aNlrTsSklwEQcr7sWEcs0&downloadName=PerplexityAI+Research+Analytics.md) - Reverse Thesis
+OpenRouter – Battle of the Bots
+🔗 View Project
 
-  🔗 [View Projet](https://spotless-save-3fc.notion.site/Mini-Project-Perplexity-AI-24612d218d9280389c3fddf2661dbc64) - Workflow (Notion)
+Major Project
 
-5. **Claude AI – ASCII Toner**  
-   🔗 [View Project](https://claude.ai/public/artifacts/8e619bb5-e619-4f19-a574-e2c1ee503641) - ASCII TONER
+The AI Orchestra – A complete orchestration system that unifies automation, pipelines, and multi-model collaboration.
 
-## Major Project
-
- **Bridging Pretraining & Instruction Tuning in LLMs**  
-A 120+ page interactive visual book combining deep research, structured writing, and futuristic design.
-
-- 🌐 [View Flipbook](https://online.fliphtml5.com/Mystery2Mastery/yrqy/) - Visual Book
-- 🔗 [View Workflow](https://spotless-save-3fc.notion.site/Major-Project-WorkFlow-Notion-AI-24712d218d9280f381b3e304e19c1ee8) - Workflow
-
+🔗 Demo / Walkthrough
 
 About Mystery2Mastery
-Mystery2Mastery is a journey to explore and master 100 AI tools through hands-on projects — mini builds, major capstones, and creative experiments. Each week focuses on a unique set of tools and challenges.
 
+Mystery2Mastery is a journey to explore and master 100 AI tools through hands-on projects — mini builds, major capstones, and creative experiments. Each week focuses on a unique set of tools and challenges, building toward mastery one project at a time.
